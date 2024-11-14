@@ -12,3 +12,11 @@ body{
     min-height: 100vh;
     background: #23242a;
 }
+
+h1{
+    position: relative;
+    font-size: 6em;
+    color: #fff;
+    -webkit-text-stroke: 0.3vw #000;
+    text-transform: uppercase;
+}
